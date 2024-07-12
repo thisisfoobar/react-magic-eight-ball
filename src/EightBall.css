@@ -1,0 +1,31 @@
+.EightBall {
+  display: grid;
+  justify-content: center;
+  align-content:center;
+}
+
+.EightBall-Ball {
+  box-shadow: 5px 5px 10px #678;
+  margin: 50px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+p {
+  margin: 0;
+  justify-content:center;
+  display: grid;
+}
